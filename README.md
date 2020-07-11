@@ -1,6 +1,6 @@
 # user-Authentication-for-sso
 
-1. Run the spring boot application. It will start tomcat on locahost port 8080
+1. Run the spring boot application. It will start tomcat on localhost port 8080
 
 2. From postman fire the POST URL(localhost:8080/auth) with json body as below 
 {
